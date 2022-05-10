@@ -45,6 +45,7 @@ The following dependencies are required:
 - pychrono
 - tensorflow
 - tensorflow-addons
+- tensorflow_probability
 - opensimplex
 
 
