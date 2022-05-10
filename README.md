@@ -23,7 +23,7 @@ The geometry of the environments is generated using a Perline Noise algorithm de
 For more info check `terrain_generator.py`.
 
 ## Training
-Our neural network models have already been trained and the model weights are available at `./Training/Exp00/log*`.
+Our neural network models and the original model this work is based upon [[4]](#4) have already been trained and the model weights are available at `./Training/Exp00/log*`.
 
 Modify `models.py` for creating new models.
 
@@ -59,4 +59,7 @@ F. Buse, R. Lichtenheldt, and R. Krenn, “Scm-a novel approach for soil deforma
 
 <a id="3">[3]</a>
 Visca, M., Kuutti, S., Powell, R., Gao, Y., & Fallah, S. (2021). Deep Learning Traversability Estimator for Mobile Robots in Unstructured Environments. arXiv preprint [arXiv:2105.10937](https://arxiv.org/abs/2105.10937).
+
+<a id="4">[4]</a>
+Visca, M., Powell, R., Gao, Y., & Fallah, S. (2022). Meta-Conv1D Energy-Aware Path Planner for Mobile Robots in Unstructured Terrains. DOI: [10.36227/techrxiv.19538575.v1](https://doi.org/10.36227/techrxiv.19538575.v1).
 
